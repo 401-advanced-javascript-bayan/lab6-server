@@ -1,0 +1,24 @@
+{
+  "categories": [
+    {
+      "name": "fatema",
+      "discription": "cute",
+      "display-name": "shubilat",
+      "_id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "ss",
+      "_id": 1
+    },
+    {},
+    {
+      "name": "bayan",
+      "discription": "smile",
+      "display-name": "shiek",
+      "category": "shom",
+      "_id": 4
+    }
+  ]
+}
